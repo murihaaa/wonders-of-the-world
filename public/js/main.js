@@ -81,7 +81,7 @@ const projectCardsContent = [
 const projectsWrapperContent = (datas) => {
   let content = ``;
   datas.forEach((data) => {
-    content += `<div class="swiper-slide">
+    content += `<li class="swiper-slide">
                 <div
                   class="slide-content flex w-full items-center justify-center"
                 >
@@ -107,7 +107,7 @@ const projectsWrapperContent = (datas) => {
                     </div>
                   </div>
                 </div>
-              </div>`;
+              </li>`;
   });
   projectsWrapper.innerHTML = content;
 };
