@@ -10,7 +10,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengucapkan selamat pagi kepada Tsania Fajriani, sosok unreal itu.",
     image: "bg-[url(./img/project-1.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/1/",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengucapkan selamat pagi kepada Tsania Fajriani, makhluk sempurna itu.",
     image: "bg-[url(./img/project-2.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/2/",
   },
   {
     id: 3,
@@ -26,7 +26,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada Tsania Fajriani, mahakarya Tuhan yang terbaik.",
     image: "bg-[url(./img/project-3.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/3/",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk meminta maaf kepada Tsania Fajriani, makhluk paling lucu se alam semesta.",
     image: "bg-[url(./img/project-4.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/4/",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk menyampaikan bahwa aku merindukan sosok menggemaskan itu, Tsania Fajriani. ",
     image: "bg-[url(./img/project-5.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/5/",
   },
   {
     id: 6,
@@ -50,7 +50,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada berkah Tuhan untuk jiwa yang kacau, Tsania Fajriani.",
     image: "bg-[url(./img/project-6.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/6/",
   },
   {
     id: 7,
@@ -58,7 +58,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan Tsania Fajriani, kekasihku selamanya.",
     image: "bg-[url(./img/project-7.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/7/",
   },
   {
     id: 8,
@@ -66,7 +66,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan Tsania Fajriani, keajaiban dunia yang paling ajaib.",
     image: "bg-[url(./img/project-8.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/8/",
   },
   {
     id: 9,
@@ -74,7 +74,7 @@ const projectCardsContent = [
     subcaption:
       "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan hadiah terbaik Tuhan untukku, Tsania Fajriani.",
     image: "bg-[url(./img/project-9.png)]",
-    link: "#",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/9/",
   },
 ];
 
