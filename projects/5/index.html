@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kangen</title>
+  </head>
+  <body>
+    <script>
+      function akuJuga() {
+        const phoneNumber = "62881024515915";
+        const text = 'AKUUU JUGAAA KANGEEEN KAMUU BANGEET KOO IQYYY';
+        const url = `https://wa.me/${phoneNumber}?text=${text}`;
+
+        window.open(url, '_blank').focus()
+      }
+
+      const kangen = () => {
+        alert("AKUUU KANGEEEN KAMUU BANGEEETT SAYAAAAANGGGGG!!!!");
+        let konfirmasi = confirm(`KAMU KANGEEEN AKUU JUGAA GAAA???!!!
+        (KALO IYA, KLIK OKEEEE)`);
+        if (konfirmasi === true) {
+          akuJuga();
+        } else {
+          alert("JAHAAAAATTT BANGEEET SUMPAAAAHH");
+          alert('ULANGI AHH');
+          kangen();
+        }
+      };
+
+      kangen();
+    </script>
+  </body>
+</html>
