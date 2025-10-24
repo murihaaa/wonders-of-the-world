@@ -72,12 +72,12 @@ main p {
 
 @media (width >= 48rem) { 
   body {
-    padding: 4rem 8rem 12rem;
+    padding: .4rem 8rem 12rem;
   }
 }
 
 @media (width >= 64rem) { 
   body {
-    padding: 8rem 16rem 20rem;
+    padding: .8rem 16rem 20rem;
   }
  }

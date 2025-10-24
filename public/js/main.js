@@ -56,7 +56,7 @@ const projectCardsContent = [
     id: 7,
     caption: "Hal-hal yang ingin disampaikan",
     subcaption:
-      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan Tsania Fajriani, kekasihku selamanya.",
+      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada Tsania Fajriani, kekasihku selamanya.",
     image: "bg-[url(./img/project-7.png)]",
     link: "https://murihaaa.github.io/wonders-of-the-world/projects/7/",
   },
@@ -64,7 +64,7 @@ const projectCardsContent = [
     id: 8,
     caption: "Hal-hal yang ingin disampaikan",
     subcaption:
-      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan Tsania Fajriani, keajaiban dunia yang paling ajaib.",
+      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada Tsania Fajriani, keajaiban dunia yang paling ajaib.",
     image: "bg-[url(./img/project-8.png)]",
     link: "https://murihaaa.github.io/wonders-of-the-world/projects/8/",
   },
@@ -72,13 +72,21 @@ const projectCardsContent = [
     id: 9,
     caption: "Hal-hal yang ingin disampaikan",
     subcaption:
-      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan hadiah terbaik Tuhan untukku, Tsania Fajriani.",
+      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada hadiah terbaik Tuhan untukku, Tsania Fajriani.",
     image: "bg-[url(./img/project-9.png)]",
     link: "https://murihaaa.github.io/wonders-of-the-world/projects/9/",
   },
+    {
+    id: 10,
+    caption: "Hal-hal yang ingin disampaikan",
+    subcaption:
+      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kuberitahukan kepada ciptaan terbaik Tuhan, Tsania Fajriani.",
+    image: "bg-[url(./img/project-10.png)]",
+    link: "https://murihaaa.github.io/wonders-of-the-world/projects/10/",
+  },
 ];
 
-const projectsWrapperContent = (datas) => {
+const projectsWrapperContent = (datas) => {k
   let content = ``;
   datas.forEach((data) => {
     content += `<li class="swiper-slide">
