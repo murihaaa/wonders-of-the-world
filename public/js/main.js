@@ -80,13 +80,13 @@ const projectCardsContent = [
     id: 10,
     caption: "Hal-hal yang ingin disampaikan",
     subcaption:
-      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kuberitahukan kepada ciptaan terbaik Tuhan, Tsania Fajriani.",
+      "Sebuah project yang kubuat untuk mengungkapkan hal-hal yang ingin kusampaikan kepada ciptaan terbaik Tuhan, Tsania Fajriani.",
     image: "bg-[url(./img/project-10.png)]",
     link: "https://murihaaa.github.io/wonders-of-the-world/projects/10/",
   },
 ];
 
-const projectsWrapperContent = (datas) => {k
+const projectsWrapperContent = (datas) => {
   let content = ``;
   datas.forEach((data) => {
     content += `<li class="swiper-slide">
