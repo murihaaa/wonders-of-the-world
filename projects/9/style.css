@@ -144,7 +144,7 @@ body {
   width: 7.5rem;
   position: absolute;
   z-index: 2;
-    filter: drop-shadow(-12px 5px 30px var(--primary-text-color));
+  filter: drop-shadow(-12px 5px 30px var(--primary-text-color));
 }
 
 .top-right-decor {
